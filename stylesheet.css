@@ -1,18 +1,25 @@
-body {
-    
-}
 h2 {
     text-decoration: underline;
     font: lighter;
-
 }
 
-h4 {
-
+div {
+    display: flex;
 }
 
-button {
+.gener {
     color: white;
     background-color: black;
     border-radius: 20%;
+}
+
+
+i {
+    padding: 15px;
+}
+
+.copy {
+    border: none;
+    padding-left: 40px;
+    background-color: white;
 }

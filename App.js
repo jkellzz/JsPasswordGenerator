@@ -14,3 +14,4 @@ document.getElementById("here").innerHTML = generatePassword();
 function refreshPage(){
     window.location.reload();
 } 
+
